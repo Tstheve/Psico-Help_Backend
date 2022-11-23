@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\MIJAIL PLAY\\source\\repos\\BackEnd_Proyecto\\BackEnd_Proyecto\\BackEnd_Proyecto.csproj": {}
+    "C:\\Users\\Dell G15\\source\\repos\\Psico-Help_Backend\\BackEnd_Proyecto\\BackEnd_Proyecto.csproj": {}
   },
   "projects": {
-    "C:\\Users\\MIJAIL PLAY\\source\\repos\\BackEnd_Proyecto\\BackEnd_Proyecto\\BackEnd_Proyecto.csproj": {
+    "C:\\Users\\Dell G15\\source\\repos\\Psico-Help_Backend\\BackEnd_Proyecto\\BackEnd_Proyecto.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\MIJAIL PLAY\\source\\repos\\BackEnd_Proyecto\\BackEnd_Proyecto\\BackEnd_Proyecto.csproj",
+        "projectUniqueName": "C:\\Users\\Dell G15\\source\\repos\\Psico-Help_Backend\\BackEnd_Proyecto\\BackEnd_Proyecto.csproj",
         "projectName": "BackEnd_Proyecto",
-        "projectPath": "C:\\Users\\MIJAIL PLAY\\source\\repos\\BackEnd_Proyecto\\BackEnd_Proyecto\\BackEnd_Proyecto.csproj",
-        "packagesPath": "C:\\Users\\MIJAIL PLAY\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\MIJAIL PLAY\\source\\repos\\BackEnd_Proyecto\\BackEnd_Proyecto\\obj\\",
+        "projectPath": "C:\\Users\\Dell G15\\source\\repos\\Psico-Help_Backend\\BackEnd_Proyecto\\BackEnd_Proyecto.csproj",
+        "packagesPath": "C:\\Users\\Dell G15\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Dell G15\\source\\repos\\Psico-Help_Backend\\BackEnd_Proyecto\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\MIJAIL PLAY\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Dell G15\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -75,7 +75,8 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -87,7 +88,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     }
